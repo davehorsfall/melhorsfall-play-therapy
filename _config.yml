@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Mel Horsfall Play Therapy
-email: no@thanks.com
+email: info@melhorsfall.co.uk
 description: >-
   Mel Horsfall Play Therapy helps children aged 4–13 express themselves, build resilience, and thrive emotionally, with support for parents, carers, and schools across Sussex.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -45,6 +45,7 @@ plugins:
   - jekyll-target-blank
   - jekyll-last-modified-at
   - jekyll-sitemap
+  - jekyll-email-protect
 
 # Disable sass warnings
 # https://github.com/jekyll/minima/issues/709#issuecomment-1439967963

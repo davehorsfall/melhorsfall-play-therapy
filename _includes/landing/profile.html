@@ -7,16 +7,24 @@
     data-aos-offset="280"
     data-disable-parallax-down="md"
   >
-    <div class="row align-items-xl-center py-2 py-sm-3 my-md-3 mb-lg-4 mb-xl-5">
-      <div class="col-md-6 pb-4 pb-md-0 mb-3 mb-md-0">
+    <div class="row align-items-start py-2 py-sm-3 my-md-3 mb-lg-4 mb-xl-5">
+      <!-- Image Column (top aligned) -->
+      <div
+        class="col-md-5 col-lg-4 col-xl-4 pb-4 pb-md-0 mb-3 mb-md-0 text-center text-md-start"
+      >
         <img
-          class="rounded-4"
+          class="rounded-4 img-fluid"
           src="{{ 'assets/img/mel-horsfall.webp' | relative_url }}"
           alt="Mel Horsfall"
         />
       </div>
+
+      <!-- Empty Column for spacing on XL -->
+      <div class="d-none d-xl-block col-xl-1"></div>
+
+      <!-- Text Column (wider, with offset on XL) -->
       <div
-        class="col-md-6 col-xl-5 offset-xl-1"
+        class="col-md-7 col-xl-7"
         data-aos="fade-up"
         data-aos-duration="850"
         data-aos-offset="180"
@@ -65,14 +73,6 @@
               Member of PTUK, accredited by the Professional Standards Authority
             </li>
           </ul>
-          <div class="pt-4 mt-3">
-            <a
-              href="{% link _pages/my-story.md %}"
-              class="btn btn-outline-primary"
-            >
-              View Full Profile
-            </a>
-          </div>
         </div>
       </div>
     </div>

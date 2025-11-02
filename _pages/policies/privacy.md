@@ -42,7 +42,7 @@ Under UK data protection law (UK GDPR), you have the right to:
 - Ask us to correct, update, or delete your information.
 - Withdraw your consent at any time if you no longer wish for us to hold your details.
 
-If you would like to exercise these rights, please contact: {{ site.email }}
+If you would like to exercise these rights, please contact [{{ site.email }}](mailto:{{ site.email }})
 
 ### 6. Changes to This Policy
 
@@ -50,7 +50,7 @@ We may update this Privacy Policy occasionally. The most recent version will alw
 
 ### 7. Contact
 
-If you have any questions or concerns about this Privacy Policy or how your data is handled, please contact Mel Horsfall by emailing {{ site.email }}.
+If you have any questions or concerns about this Privacy Policy or how your data is handled, please contact [{{ site.email }}](mailto:{{ site.email }}).
 
 <!-- Timestamp -->
 <div class="fs-sm fst-italic mb-2 w-100 text-end">

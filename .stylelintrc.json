@@ -1,13 +1,14 @@
 {
   "extends": "stylelint-config-twbs-bootstrap",
-  "ignoreFiles": [
-    "assets/**/*"
-  ],
+  "ignoreFiles": ["assets/**/*"],
   "rules": {
     "selector-max-class": null,
     "selector-max-compound-selectors": null,
     "stylistic/no-missing-end-of-source-newline": null,
     "stylistic/selector-combinator-space-after": null,
-    "stylistic/selector-combinator-space-before": null
+    "stylistic/selector-combinator-space-before": null,
+    "stylistic/number-leading-zero": null,
+    "scss/load-no-partial-leading-underscore": true,
+    "scss/dollar-variable-colon-space-after": null
   }
 }

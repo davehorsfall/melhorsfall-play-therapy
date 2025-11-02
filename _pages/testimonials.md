@@ -1,15 +1,45 @@
 ---
 layout: page
 title: Testimonials
-description: This is my description for the page
+description: Hear from families, schools, and children who have benefited from Mel Horsfall Play Therapy.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam scelerisque justo a imperdiet dapibus. Vivamus fringilla, nunc a ullamcorper feugiat, lorem dolor placerat lorem, eu molestie ante mauris quis ante. Praesent sit amet nulla aliquam, consectetur augue non, sagittis velit. Vivamus mauris velit, molestie ut tincidunt eget, viverra id nisl. Donec tellus dui, eleifend nec dictum nec, laoreet nec sapien. Maecenas sit amet pellentesque metus. Sed eget risus eu enim hendrerit aliquet vel feugiat elit. Nullam eget lacus augue.
+  <!-- Testimonial 1 -->
+  <div class="card mb-4 border-0 bg-primary bg-opacity-10 position-relative overflow-hidden rounded-4 p-4">
+    <i class="ai-quotes fs-1 text-primary mb-3"></i>
+    <p class="lead mb-2">
+      “Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam scelerisque justo a imperdiet dapibus. Vivamus fringilla, nunc a ullamcorper feugiat, lorem dolor placerat lorem, eu molestie ante mauris quis ante.”
+    </p>
+    <h5 class="mb-0">Lilianna Bocouse</h5>
+    <p class="text-body-secondary mb-0">Headteacher</p>
+  </div>
 
-Quisque posuere erat non sapien efficitur, eu imperdiet nisi lacinia. Sed quis lacinia dui. Pellentesque velit sem, facilisis vitae elit luctus, vehicula pharetra nisi. In posuere dolor a lacus condimentum commodo. Curabitur at purus vel tortor viverra fringilla vel quis purus. Nunc sagittis, odio ac semper luctus, justo ligula bibendum mi, sed tempus felis odio ac lacus. Morbi a dui aliquet, condimentum felis euismod, ullamcorper diam. In congue est maximus, hendrerit arcu vel, semper est. Morbi in mi arcu. Pellentesque dapibus arcu lacus, id viverra dolor condimentum sed. Morbi sit amet dignissim augue. Vestibulum bibendum risus quis turpis malesuada, et pretium neque fermentum. Sed a ultricies enim.
+  <!-- Testimonial 2 -->
+  <div class="card mb-4 border-0 bg-primary bg-opacity-10 position-relative overflow-hidden rounded-4 p-4">
+    <i class="ai-quotes fs-1 text-primary mb-3"></i>
+    <p class="lead mb-2">
+      “Integer ac pretium dui. Aliquam rutrum justo lorem, in efficitur odio efficitur vel. Integer mattis, neque malesuada sagittis porttitor, enim tortor ullamcorper diam, id eleifend sem mauris at turpis.”
+    </p>
+    <h5 class="mb-0">Darell Steward</h5>
+    <p class="text-body-secondary mb-0">Headteacher</p>
+  </div>
 
-Aenean congue commodo est. Sed a placerat lacus, sit amet bibendum turpis. Nullam hendrerit, arcu sed tempus fermentum, ante leo tempus tortor, non pulvinar ligula diam sit amet mi. Morbi dapibus tellus id erat euismod pellentesque. In porttitor laoreet mauris quis convallis. Proin blandit vestibulum odio nec mattis. Nulla ac lacus vehicula, ultrices mi vel, scelerisque nisl.
+  <!-- Testimonial 3 -->
+  <div class="card mb-4 border-0 bg-primary bg-opacity-10 position-relative overflow-hidden rounded-4 p-4">
+    <i class="ai-quotes fs-1 text-primary mb-3"></i>
+    <p class="lead mb-2">
+      “Quisque rutrum sit amet magna sit amet tristique. Vivamus rhoncus ac purus vitae convallis. Aliquam erat volutpat. Proin egestas, mauris ut semper semper, ipsum felis mattis ligula.”
+    </p>
+    <h5 class="mb-0">Annette Black</h5>
+    <p class="text-body-secondary mb-0">Headteacher</p>
+  </div>
 
-Vivamus elementum enim volutpat, ullamcorper augue a, gravida felis. Fusce rutrum varius neque, eu volutpat sapien pulvinar sed. Quisque facilisis libero et lacus tincidunt luctus. Fusce turpis odio, vulputate eget accumsan ac, fringilla rhoncus tellus. Mauris eget sollicitudin sapien. Phasellus at turpis orci. Etiam aliquam quis erat ut tempus.
-
-Morbi quis felis consectetur eros efficitur condimentum. Integer pellentesque nisl lobortis nisl sollicitudin, maximus semper massa mattis. Etiam sit amet mauris leo. Integer varius accumsan lectus sed sagittis. Integer at ullamcorper sem. Donec eget imperdiet nisi. Maecenas eget lorem sed nibh gravida pulvinar.
+  <!-- Testimonial 4 -->
+  <div class="card mb-4 border-0 bg-primary bg-opacity-10 position-relative overflow-hidden rounded-4 p-4">
+    <i class="ai-quotes fs-1 text-primary mb-3"></i>
+    <p class="lead mb-2">
+      “Vestibulum faucibus lectus eget augue pharetra, quis semper lectus gravida. Vestibulum pretium in elit sed iaculis. Curabitur elementum turpis at ipsum molestie.”
+    </p>
+    <h5 class="mb-0">Ralph Edwards</h5>
+    <p class="text-body-secondary mb-0">Headteacher</p>
+  </div>

@@ -1,0 +1,5 @@
+{% assign sitename = site.title | append: ' | ' | append: site.title %} {% if
+page.url == "/" %} {% assign title = sitename %} {% assign description =
+site.description %} {% else %} {% assign title = page.title | append: ' | ' |
+append: site.title %} {% assign description = page.description | default:
+site.description %} {% endif %}

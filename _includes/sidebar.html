@@ -26,18 +26,21 @@
           Supporting children and families across Sussex for over 25 years.
         </p>
         <p>
-          <i class="ai-mail me-2 text-primary"></i>
-          <a href="mailto:{{ site.email }}" class="text-decoration-none">
+          <i class="fa-solid fa-envelope me-2 text-primary"></i>
+          <a
+            href="mailto:{{ site.email | encode_email }}"
+            class="text-decoration-none"
+          >
             {{ site.email }}
           </a>
         </p>
       </div>
       <div class="mb-4">
         <a
-          class="btn btn-primary w-100 mb-3"
+          class="btn btn-primary w-100 mb-3 text-uppercase"
           href="{% link _pages/contact.md %}"
         >
-          Book a Free Consultation
+          Get in Touch
         </a>
         <a
           class="btn btn-outline-primary btn-sm w-100 mb-1"
